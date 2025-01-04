@@ -8,6 +8,7 @@ Bu proje, bir stok ve kullanıcı yönetimi uygulamasıdır. Kullanıcılar ve y
 
 Proje kapsamında kullanılan ana fonksiyonlar `anamenu.sh` dosyasında bulunur. Sistemin çalışması için gerekli kayıtlar `csv` klasörü altında yer alan aşağıdaki dosyalarda tutulmaktadır:
 
+
 - **kullanici.csv**: Kullanıcı bilgileri
 - **log.csv**: Hata ve işlem kayıtları
 - **depo.csv**: Stok bilgileri
@@ -21,6 +22,9 @@ Proje ana dizininde bulunan `anamenu.sh` scripti çalıştırıldığında aşa�
 1. **Kullanıcı olarak giriş yap**  
 2. **Yönetici olarak giriş yap**  
 3. **Çıkış**  
+
+![image](https://github.com/user-attachments/assets/3bac9001-3841-4ac1-8c9f-cde6e56f4721)
+
 
 ---
 
