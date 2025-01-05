@@ -108,6 +108,7 @@ Başarılı bir girişin ardından kullanıcı menüsü aşağıdaki gibidir:
 ---
 
 ## Projenin Videosu
+   Videoyu izlemek için <a href="https://www.youtube.com/watch?v=J_DUQ3bUqDQ">buraya tıklayınız.</a>
 
 ---
 * Bu proje, **Zenity** aracılığıyla kullanıcı dostu bir arayüz sağlayarak basit bir envanter yönetim sistemi oluşturmayı amaçlamaktadır. 😊
